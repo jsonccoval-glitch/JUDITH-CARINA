@@ -1,0 +1,37 @@
+</style>
+</head>
+<body>
+    <main class="container">
+        <!-- Encabezado Principal con el Nombre del Estudiante -->
+        <h1>Alejandro Torres</h1>
+        
+        <!-- Párrafo Introductorio -->
+        <p class="intro">
+            Bienvenido a mi primera página web. He construido este prototipo con el propósito de poner en práctica los fundamentos del desarrollo web moderno, utilizando una estructura limpia en HTML5 combinada con un diseño responsivo y sofisticado.
+        </p>
+        <!-- Lista Ordenada de Objetivos -->
+        <section>
+            <h2 class="section-title">Objetivos de Aprendizaje</h2>
+            <ol>
+                <li>Dominar la maquetación semántica de HTML5 para estructurar páginas accesibles y optimizadas para SEO.</li>
+                <li>Comprender las técnicas avanzadas de CSS para crear diseños dinámicos, fluidos y con alta fidelidad estética.</li>
+                <li>Integrar interactividad avanzada en interfaces web utilizando buenas prácticas en JavaScript.</li>
+            </ol>
+        </section>
+        <!-- Imagen de Referencia -->
+        <section class="image-container">
+            <img src="./web_dev_illustration.png" alt="Ilustración 3D de desarrollo web con código flotante y elementos interactivos">
+        </section>
+        <!-- Hipervínculo a Sitio Educativo -->
+        <div class="cta-container">
+            <a href="https://es.khanacademy.org/" target="_blank" rel="noopener noreferrer" class="education-link">
+                Explorar Khan Academy
+            </a>
+        </div>
+        <!-- Footer -->
+        <footer class="footer">
+            PROTOTIPO HTML5 • DISEÑO DE ALTA FIDELIDAD
+        </footer>
+    </main>
+</body>
+</html>
